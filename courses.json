@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "REST API Fundamentals",
+    "description": "Learn how to build REST APIs with Express.",
+    "target_date": "2026-12-31",
+    "status": "Not Started",
+    "created_at": "2026-10-26T07:00:30.841Z"
+  }
+]
